@@ -13,8 +13,6 @@ Todo o projeto foi feito com R, guiado pela filosofia do pacote [Golem](https://
 
 ---
 
-Abaixo há as visualizações não-interativas do dashboard
-
 ### Visualização 01
 ![](img_plot/ipca_00.png)
 
