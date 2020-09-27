@@ -1,0 +1,32 @@
+Package: monitor.ipca
+Title: Monitor IPCA
+Version: 0.0.0.9000
+Authors@R: person('Augusto', 'Leal', email = 'leal.augusto@unifesp.br', role = c('cre', 'aut'))
+Description: Visualize Indicators of IPCA Index
+License: MIT + file LICENSE
+Imports: 
+    config,
+    golem,
+    shiny,
+    attempt,
+    DT,
+    glue,
+    htmltools,
+    thinkr,
+    dplyr,
+    tidyr,
+    extrafont,
+    tidyquant,
+    janitor,
+    magrittr,
+    zoo,
+    extrafont,
+    lubridate,
+    plotly,
+    pkgload,
+    shinydashboard,
+    dashboardthemes,
+    sidrar
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
